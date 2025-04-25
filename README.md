@@ -1,24 +1,7 @@
-# Treinamento de HTML e CSS - Portfólio Básico
+# Desafio de Dev
 
 Olá! 👋  
-Este repositório foi criado como apoio ao treinamento de HTML e CSS que ministrei para os aspirantes do CITi. Aqui, desenvolvemos juntos um **portfólio básico** usando apenas HTML e CSS, com o objetivo de reforçar conceitos iniciais de estruturação de páginas e estilização. 💻✨
-
----
-
-## 📚 O que foi abordado?
-
-Durante o treinamento, construímos do zero uma página de portfólio simples. Ao longo do código, adicionei **comentários explicativos** para ajudar no entendimento de cada parte.
-
-Os principais tópicos abordados foram:
-
-- Estrutura básica de um documento HTML
-- Elementos semânticos
-- Uso de tags como `header`, `main`, `footer`
-- Seletores e propriedades do CSS
-- Posicionamento com `flexbox`
-- Estilização de textos, cores, espaçamentos e imagens
-- Organização de arquivos (HTML + CSS separados)
-- Responsividade com Media Queries
+Este repositório foi criado para o desafio da área de desenvolvimento, durante o Processo Seletivo do Citi.
 
 ---
 
@@ -35,4 +18,4 @@ Os principais tópicos abordados foram:
 
 1. Explore o código, leia os comentários e sinta-se à vontade para modificar, testar e brincar com o que foi feito!
 
-![image](https://github.com/user-attachments/assets/b419c821-a601-4bd8-a024-d34f0a744a90)
+[//]: # "![image](https://github.com/user-attachments/assets/b419c821-a601-4bd8-a024-d34f0a744a90)"
